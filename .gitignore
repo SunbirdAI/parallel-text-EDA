@@ -1,3 +1,6 @@
 # Data files
 *.xlsx
 *.jsonl
+
+# Other
+.DS_Store
