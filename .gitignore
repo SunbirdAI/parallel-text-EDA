@@ -4,3 +4,14 @@
 
 # Other
 .DS_Store
+
+# Env files
+.env
+
+# Language files
+*.en
+*.ach
+*.lg
+*.lgg
+*.run
+*.teo
