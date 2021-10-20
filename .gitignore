@@ -1,3 +1,6 @@
+# Jupyter
+.ipynb_checkpoints/
+
 # Data files
 *.xlsx
 *.jsonl
@@ -9,6 +12,9 @@
 .env
 
 # Language files
+dataset/
+*.tar
+*.zip
 *.en
 *.ach
 *.lug
