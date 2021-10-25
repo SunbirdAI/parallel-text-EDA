@@ -12,6 +12,7 @@
 .env
 
 # Language files
+*dataset*
 dataset/
 *.tar
 *.zip
