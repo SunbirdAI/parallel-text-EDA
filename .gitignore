@@ -22,3 +22,5 @@ dataset/
 *.lgg
 *.run
 *.teo
+*.src
+*.tgt
