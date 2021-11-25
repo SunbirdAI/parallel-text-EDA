@@ -16,6 +16,7 @@
 dataset/
 *.tar
 *.zip
+*.csv
 *.en
 *.ach
 *.lug
