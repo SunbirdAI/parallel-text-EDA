@@ -14,8 +14,8 @@
 ## Runyakole
 * Lughayangu Website (https://lughayangu.com/post/common-runyankole-phrases-and-their-meaning)
 
-* NB
-  It is worth noting all these languages have Bible translations so it might be a route woth exploring.
-  
-* Tools
-  For the web sources web scraping can be employed as well as tools such as Listly although it needs significant data preparation.
+## Tools
+* For the web sources web scraping can be employed as well as tools such as Listly although it needs significant data preparation.
+
+## Additional Notes
+* It is worth noting all these languages have Bible translations so it might be a route woth exploring.
