@@ -7,7 +7,15 @@
 * Aicerit Newspaper (https://www.aicerit.co.ug/)
 
 ## Luganda
+* Bukedde Online (https://www.bukedde.co.ug/)
 
 ## Lugbara
 
 ## Runyakole
+* Lughayangu Website (https://lughayangu.com/post/common-runyankole-phrases-and-their-meaning)
+
+* NB
+  It is worth noting all these languages have Bible translations so it might be a route woth exploring.
+  
+* Tools
+  For the web sources web scraping can be employed as well as tools such as Listly although it needs significant data preparation.
