@@ -5,3 +5,9 @@
 
 ## Ateso
 * Aicerit Newspaper (https://www.aicerit.co.ug/)
+
+## Luganda
+
+## Lugbara
+
+## Runyakole
