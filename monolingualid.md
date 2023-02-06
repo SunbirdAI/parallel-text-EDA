@@ -4,10 +4,10 @@
 * Peace Corps Acholi Course (As per pdf uploaded)
 
 ## Ateso
-* Aicerit Newspaper (https://www.aicerit.co.ug/)
+* Aicerit Newspaper. (https://www.aicerit.co.ug/)
 
 ## Luganda
-* Bukedde Online (https://www.bukedde.co.ug/)
+* Bukedde Online. (https://www.bukedde.co.ug/)
 
 ## Lugbara
 
