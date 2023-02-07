@@ -10,6 +10,7 @@
 * Bukedde Online. (https://www.bukedde.co.ug/)
 
 ## Lugbara
+* Physical Sources may be the best alternative for Lugbara.
 
 ## Runyakole
 * Lughayangu Website (https://lughayangu.com/post/common-runyankole-phrases-and-their-meaning)
