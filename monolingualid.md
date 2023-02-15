@@ -3,6 +3,7 @@
 ## Acholi
 * Language Exchange Website (http://language.exchange.free.fr/lessons_read.php?lang=acholi)
 * Peace Corps Acholi Course (As per pdf uploaded)
+* Proverbs (https://sites.google.com/site/churchillojok/my-local-language-and-proverbs)
 
 ## Ateso
 * Aicerit Newspaper. (https://www.aicerit.co.ug/)
