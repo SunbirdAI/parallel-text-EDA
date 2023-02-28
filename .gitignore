@@ -25,3 +25,6 @@ dataset/
 *.teo
 *.src
 *.tgt
+
+# IDE files
+.idea/
