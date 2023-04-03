@@ -20,8 +20,8 @@ class TestAccumulateSentences(unittest.TestCase):
 
     def setUp(self):
         self.accumulator_dict = {
-            0: {"eng": ["Hello"], "lug": ["Jeebale"]},
-            4: {"eng": ["My Lord !"], "lug": ["Mukama Wange !"]},
+            0: {"eng": "Hello", "lug": "Jeebale"},
+            4: {"eng": "My Lord !", "lug": "Mukama Wange !"},
         }
         self.eng_sentences_dict = {
             0: "Hello",
@@ -51,10 +51,10 @@ class TestAccumulateSentences(unittest.TestCase):
 
         # Define expected output
         expected_output = {
-            0: {"eng": ["Hello"], "swa": ["Habari"], "lug": ["Jeebale"]},
-            1: {"eng": ["How are you?"], "swa": ["Habari yako?"]},
-            2: {"eng": ["What is your name?"], "swa": ["Jina lako nani?"]},
-            4: {"eng": ["My Lord !"], "lug": ["Mukama Wange !"]},
+            0: {"eng": "Hello", "swa": "Habari", "lug": "Jeebale"},
+            1: {"eng": "How are you?", "swa": "Habari yako?"},
+            2: {"eng": "What is your name?", "swa": "Jina lako nani?"},
+            4: {"eng": "My Lord !", "lug": "Mukama Wange !"},
 
         }
 
