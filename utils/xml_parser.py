@@ -62,16 +62,16 @@ def align_sentences(accumulator_dict, eng_sentences_dict, other_sentences_dict, 
         #other_sentence = int(other_sentence)
 
         try:
-            if len(accumulator_dict[eng_sentence_index]["eng"]) > 0:
-                pass
-            else:
-                accumulator_dict[eng_sentence_index]["eng"].append(en_sentence)
-            try: #If this fails there have been previous sentence values but there is not for this language
-                accumulator_dict[eng_sentence_index][other_language].append(other_sentence)
-            except KeyError:
-                accumulator_dict[eng_sentence_index][other_language] = [other_sentence]
+            #if len(accumulator_dict[eng_sentence_index]["eng"]) > 0:
+            #    pass
+            #else:
+            accumulator_dict[eng_sentence_index]["eng"] = en_sentence
+            #try: #If this fails there have been previous sentence values but there is not for this language
+            #    accumulator_dict[eng_sentence_index][other_language].append(other_sentence)
+            #except KeyError:
+            accumulator_dict[eng_sentence_index][other_language] = other_sentence
         except KeyError:
-            accumulator_dict[eng_sentence_index] = {"eng": [en_sentence], other_language: [other_sentence]}
+            accumulator_dict[eng_sentence_index] = {"eng": en_sentence, other_language: other_sentence}
 
             
     return accumulator_dict
