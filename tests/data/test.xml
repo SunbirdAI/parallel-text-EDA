@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<cesAlign version="1.0">
+
+  <linkGrp >
+    <link targType="s" xtargets="0 0; 1 1" />
+    <link targType="s" xtargets="2 3; 4 5"/>
+  </linkGrp>
+</cesAlign>
