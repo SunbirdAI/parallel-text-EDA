@@ -12,7 +12,7 @@ jupyter-console==6.4.0
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
-notebook==6.3.0
+notebook==6.4.12
 numpy==1.20.2
 pandas==1.2.3
 python-decouple==3.4
